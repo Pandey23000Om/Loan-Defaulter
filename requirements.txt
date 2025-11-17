@@ -1,0 +1,37 @@
+# Core ML & Data
+numpy>=1.26
+pandas>=2.0
+scikit-learn>=1.4
+xgboost>=2.0
+lightgbm>=4.3
+scipy>=1.11
+
+# Deep Learning (PyTorch - CPU by default)
+torch>=2.2
+torchvision>=0.17
+torchaudio>=2.2
+
+# EDA & Visualization
+matplotlib>=3.8
+seaborn>=0.13
+jupyter
+notebook
+
+# MLOps / Experiment Tracking
+mlflow>=2.12
+dvc[s3]>=3.0
+evidently>=0.4.0
+pyyaml
+python-dotenv
+
+# API / Serving
+fastapi
+uvicorn[standard]
+
+# Validation / Testing
+pandera>=0.17
+pytest
+
+# Utility
+tqdm
+joblib
