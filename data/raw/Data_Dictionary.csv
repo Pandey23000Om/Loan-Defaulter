@@ -26,7 +26,7 @@ Homephone_Tag,Homephone Number provided by Client (1 means Yes and 0 means No)
 Workphone_Working,Was workphone number reachable (1 means Yes and 0 means No)
 Client_Occupation,Client Occupation type
 Client_Family_Members,Number of family members does client have
-Cleint_City_Rating,Client city rating. 3 denotes best and 2 denotes good and 1 denotes average
+Client_City_Rating,Client city rating. 3 denotes best and 2 denotes good and 1 denotes average
 Application_Process_Day,"Day of the week on which client applied for the loan (0-Sun, 1-Mon,2-Tues, 3-Wed, 4-Thrus,5-Fri, 6-Sat)"
 Application_Process_Hour,hour of the day on which client applied for the loan
 Client_Permanent_Match_Tag,Indication if client contact address does not match permanent address.
