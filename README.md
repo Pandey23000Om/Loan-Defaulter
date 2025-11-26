@@ -1,5 +1,3 @@
----
-
 # 🏦 **Loan Default Prediction – End-to-End ML & MLOps Project**
 
 This project builds an end-to-end **Loan Default Prediction** system, covering:
