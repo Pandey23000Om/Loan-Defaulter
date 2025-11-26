@@ -9,6 +9,9 @@ __pycache__/
 # v-env
 ml-venv/
 
+# Models
+notebooks/mlruns/
+
 # Distribution / packaging
 .Python
 build/
